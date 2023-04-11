@@ -1,0 +1,63 @@
+Build a simple to-do list application using React and any other 
+necessary libraries or tools. 
+
+The application should allow the user to:
+ add, edit, and delete to-do items, 
+ and should persist the to-do list in the browser's local storage.
+
+Here are some specific requirements for the task:
+1. The application should have a form that allows the user to enter a 
+   new to-do item.
+2. The application should display a list of all the to-do items.
+3. Each to-do item should have a checkbox that the user can check to mark 
+   the item as complete.
+4. Each to-do item should have an "edit" button that the user can click 
+   to edit the text of the item.
+5. Each to-do item should have a "delete" button that the user can click to 
+   delete the item.
+6. The application should use local storage to persist the to-do list so 
+   that the list remains even if the user refreshes the page or closes 
+   and reopens the browser.
+7. The application should be styled using CSS or any CSS framework of your 
+   choice.
+CSS FRAMEWORK EXAMPLES -
+   Bootstrap: a popular front-end framework that provides a wide range of 
+   pre-built UI components, including typography, forms, buttons, and 
+   navigation.
+   Foundation: another popular front-end framework that offers a customizable 
+   grid system, as well as pre-built UI components, such as buttons, forms, 
+   and navigation.
+   Materialize: a framework based on Google's Material Design principles, 
+   which provides a set of UI components that follow a consistent visual 
+   language.
+   Tailwind CSS: a utility-first CSS framework that provides a set of 
+   pre-built utility classes that you can use to quickly style your interface.
+   Bulma: a modern CSS framework that is lightweight and easy to use, 
+  providing a set of responsive UI components that you can use to build 
+  your own interface.
+
+The code should be written in React and any other necessary libraries or tools, 
+and should follow best practices for code organization, readability, and 
+maintainability.
+
+During the interview, the interviewer can ask the candidate to
+ explain their code 
+ and how they approached the task. 
+
+The interviewer can also ask the candidate to make some changes or add new 
+features to the application to test their problem-solving and coding skills.
+
+They require you to think critically about the application and its 
+functionality, and to implement solutions that are both efficient and effective. Such as:
+
+TBD:
+- Can you add a "priority" field to the to-do item form and allow the user to sort the list by priority?
+- Can you add the ability for the user to mark multiple items as complete at once?
+- Can you add a "completed items" section that displays a list of completed items?
+- Can you add a "due date" field to the to-do item form and display the due date next to each item in the list?
+- Can you add the ability for the user to filter the list by completed and uncompleted items?
+- Can you add a confirmation dialog when the user clicks the "delete" button to make sure they really want to delete the item?
+- Can you add a search bar that allows the user to search for specific items in the list?
+- Can you add the ability for the user to drag and drop items to rearrange their order in the list?
+
+
